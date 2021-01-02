@@ -14,4 +14,4 @@ test('creates a random potion object', () => {
     expect(potion.name.length).toBeGreaterThan(0);
     expect(potion.value).toEqual(expect.any(Number));
   });
-/// at section 10.1.6
+/// at section 10.3.3
